@@ -2,7 +2,7 @@
 
 Final Project of CSS section for the Odin Project.
 
-Assignment Details (From https://www.theodinproject.com/lessons/foundations-landing-page):
+Assignment Details (From https://www.theodinproject.com/lessons/foundations-landing-page): 
 
 1. The font that’s being used in the images is roboto.
    Hero text is the statement that appears at the top of a web page.

@@ -2,6 +2,14 @@
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
 
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
 .header {
     color: #F9FAF8;
     background-color: #1F2937;
@@ -48,18 +56,15 @@ ul {
 }
 
 .top-container {
-    display: flex;
-    flex-direction: column;
     margin-right: 100px;
     padding: 50px;
 }
 
 .top img {
-    display: flex;
     width: 400px;
     height: 200px;
     margin: 50px;
-    flex-shrink: 0;
+    flex-shrink: 2;
 }
 
 .top button {
